@@ -1,4 +1,6 @@
 def gittie():
     return "Hello, I'm Gittie!"
 
-print(gittie())
+
+def joke():
+    return "Hogyan állítja meg a ninja a kamiont? \nrálép a fékre."
