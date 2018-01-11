@@ -4,5 +4,12 @@ def introduce():
 
 def joke():
     return "Hogyan állítja meg a ninja a kamiont? \nrálép a fékre."
+
+
 def add(a, b):
     return(a+b)
+
+
+def shout():
+    shout = "ÁÁÁÁÁÁ"
+    return shout
