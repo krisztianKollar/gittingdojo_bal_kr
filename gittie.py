@@ -1,4 +1,5 @@
-def gittie():
+def introduce():
     return "Hello, I'm Gittie!"
 
-print(gittie())
+def add(a, b):
+    return(a+b)
